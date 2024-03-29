@@ -5,7 +5,7 @@ Welcome to Psychology through Formula 1! This repository explores various psycho
 ## Table of Contents
 
 - [Concepts](#concepts)
-  - [1. Hindsight Bias](#1-hindsight-bias)
+  - [1. Hindsight Bias](docs/ch1.md)
   - [2. Planning Fallacy](#2-planning-fallacy)
   - [3. Overconfidence Phenomenon](#3-overconfidence-phenomenon)
   - [4. Cognitive Dissonance](#4-cognitive-dissonance)
