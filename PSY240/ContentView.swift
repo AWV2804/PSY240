@@ -126,22 +126,22 @@ struct ContentView: View {
                     }
                     NavigationLink(destination: ConceptView(ch: "Ch 10", concept: "Social Learning",
                                                             definition: "Theory that we learn social behavior by observing and imitating and by being rewarded and punished",
-                                                            application: "", images: [""], captions: [""])) {
+                                                            application: "", images: ["ch10-1"], captions: ["Test and reserve driver for the Mercedes team looking at data and learning from driving patterns of the main drivers"])) {
                         Text("Ch 10")
                     }
-                    NavigationLink(destination: ConceptView(ch: "Ch 11", concept: "Complementarity",
-                                                            definition: "Popularity supposed tendency, in a relationship between two people, for each to compete what is missing in the other",
-                                                            application: "", images: [""], captions: [""])) {
+                    NavigationLink(destination: ConceptView(ch: "Ch 11", concept: "Two-factor Theory of Emotion",
+                                                            definition: "Psychological theory, proposed by Stanley Schachter and Jerome Singer, suggests that emotion is based on two factors: physiological arousal and cognitive interpretation",
+                                                            application: "", images: ["ch11-1", "ch11-2"], captions: ["Driver reacting to video of another driver pushing his car to the maximum on a fast lap", "Driver's reaction after the driver he was watching crashes due to misjudgement"])) {
                         Text("Ch 11")
                     }
-                    NavigationLink(destination: ConceptView(ch: "Ch 12", concept: "Bystander Effect",
-                                                            definition: "Finding that a person is less likely to provide help when there are other bystanders",
-                                                            application: "", images: [""], captions: [""])) {
+                    NavigationLink(destination: ConceptView(ch: "Ch 12", concept: "Social-Exchange Theory",
+                                                            definition: "Explores how human relationships are formed and maintained based on an implicit cost-benefit analysis, where individuals seek to maximize benefits while minimizing costs",
+                                                            application: "", images: ["ch12-1"], captions: ["Team signs with a driver to win a championship but want to give a contract that would cost them as little as possible. Driver signs with the team for also winning championship but for a contract that would give him as much power to negotiate as possible"])) {
                         Text("Ch 12")
                     }
-                    NavigationLink(destination: ConceptView(ch: "Ch 13", concept: "Mirror-Image Perceptions",
+                    NavigationLink(destination: ConceptView(ch: "Ch 13", concept: "Conflict",
                                                             definition: "Reciprocal views of each other often held by parties in conflict",
-                                                            application: "", images: [""], captions: [""])) {
+                                                            application: "", images: ["ch13-1", "ch13-2", "ch13-3"], captions: ["Teammates racing each other for 1st place", "One of the teammates makes a mistake", "Crashes into each other for shared common goal of being the better driver"])) {
                         Text("Ch 13")
                     }
                     // Add more menu items as needed
